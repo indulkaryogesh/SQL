@@ -1,0 +1,36 @@
+SQL Project Overview
+- Main two dataset files 1.Apple Store and 2.Apple store Description.
+- Uses sqliteonline.com for data analysis.
+- Data set includes information about apps on Apple Store.
+- Data set split into smaller files due to size limitation.
+
+🔍 Exploratory Data Analysis (EDA)
+- In this project our stakeholder is aspiring app developer.
+- EDA helps understand data characteristics and reveals issues.
+- No missing data found in the tables.
+- Games and entertainment genres dominate the Apple Store.
+- Average user rating is around 3.5.
+
+💰 Paid vs Free Apps
+- Paid apps generally have slightly higher ratings.
+- Users may perceive paid apps as having higher quality.
+
+🌍 Language Support
+- Apps supporting 10-30 languages have highest average ratings.
+- Focus on the right languages rather than quantity.
+
+📚 High Performing Genres
+- Finance and book genres have lower user ratings.
+- Market opportunity to create quality apps in these categories.
+
+📝 App Description Length
+- Longer app descriptions have higher user ratings.
+- Clear and detailed descriptions set user expectations.
+
+🎯 Target Rating
+- Aim for a rating higher than the average of 3.5.
+
+🎮 Games and Entertainment Genres
+- Highly competitive market with high user demand.
+- Challenging to enter due to saturation.
+
